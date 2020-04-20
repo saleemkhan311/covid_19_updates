@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956249286852",
+    "firebase_url": "https://covid-19-updates-34281.firebaseio.com",
+    "project_id": "covid-19-updates-34281",
+    "storage_bucket": "covid-19-updates-34281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956249286852:android:fed096c880a5c7e9718191",
+        "android_client_info": {
+          "package_name": "com.devsaleem.covid_19_updates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956249286852-tcvhcks5spefve11oid4eofn0k579ahu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKL1br08OTblnqRGsz85bz8hLaFhaSVK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956249286852-tcvhcks5spefve11oid4eofn0k579ahu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
